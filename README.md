@@ -59,5 +59,5 @@ The price dynamic follows:
  
 
 References:
-https://finpricing.com/lib/FiBond.html
 
+https://finpricing.com/FinPricing-ProductBrochure.pdf
